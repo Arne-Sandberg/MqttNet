@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 
 This package includes the mosquitto library and a MqttKit from https://github.com/mobile-web-messaging/MQTTKit.
-The original MqttClientEx a extension of MqttClient with the ability to subscribe the same topic multiple times.
+The original MqttNet a extension of MqttClient with the ability to subscribe the same topic multiple times.
 
                        DESC
   s.homepage         = 'https://github.com/xs23933/MqttNet'
