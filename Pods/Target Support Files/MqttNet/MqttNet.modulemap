@@ -1,0 +1,6 @@
+framework module MqttNet {
+  umbrella header "MqttNet-umbrella.h"
+
+  export *
+  module * { export * }
+}

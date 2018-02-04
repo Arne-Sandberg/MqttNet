@@ -1,0 +1,14 @@
+PODS:
+  - MqttNet (0.1.2)
+
+DEPENDENCIES:
+  - MqttNet (from `/Users/caisong/code/Pods/MqttNet`)
+
+EXTERNAL SOURCES:
+  MqttNet:
+    :path: /Users/caisong/code/Pods/MqttNet
+
+SPEC CHECKSUMS:
+  MqttNet: fd7d82a4ca2c4d6519cb4924b92e5e0c4a2a2ff8
+
+COCOAPODS: 1.4.0

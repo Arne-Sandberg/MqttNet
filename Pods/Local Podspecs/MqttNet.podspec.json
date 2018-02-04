@@ -1,0 +1,23 @@
+{
+  "name": "MqttNet",
+  "version": "0.1.2",
+  "summary": "MqttNet subscribe on the one topic multiple times",
+  "description": "This package includes the mosquitto 1.4.14 library and a MqttKit from https://github.com/mobile-web-messaging/MQTTKit.\nThe original MqttNet a extension of MqttClient with the ability to subscribe the same topic multiple times.",
+  "homepage": "https://github.com/xs23933/MqttNet",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xs23933": "xs23933@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/xs23933/MqttNet.git",
+    "tag": "0.1.2"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MqttNet/Classes/**/*",
+  "public_header_files": "MqttNet/MqttNet.h"
+}
